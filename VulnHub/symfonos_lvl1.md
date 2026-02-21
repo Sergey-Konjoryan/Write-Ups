@@ -1,10 +1,3 @@
-**Target:** Symfonos 1 (VulnHub)  
-**Date:** February 21, 2026  
-**Category:** Boot-to-Root / CTF  
-**Difficulty:** Intermediate  
-
----
-
 ## 1. Executive Summary
 The objective was to gain root-level access to the Symfonos 1 virtual machine. The attack chain involved SMB enumeration to gather user information, exploiting a Local File Inclusion (LFI) vulnerability in a WordPress site, and escalating privileges via SMTP Log Poisoning followed by an insecure PATH vulnerability in a SUID binary.
 
