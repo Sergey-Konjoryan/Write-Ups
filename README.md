@@ -5,7 +5,7 @@ This repository serves as a technical portfolio of my hands-on experience in vul
 ## Lab Machine Index:
 
 ### 🛡️ VulnHub Challenges
-- [Symfonos 1](./VulnHub/symfonos1.md) - SMB Enum, LFI to RCE & Path Hijacking
+- [Symfonos 1](./VulnHub/symfonos_lvl1.md) - SMB Enum, LFI to RCE & Path Hijacking
 - [W1R3S 1.0.1](./VulnHub/w1r3s.md) - CMS Exploitation & Hash Cracking
 - [Kioptrix Level 1](./VulnHub/kioptrix_lvl1.md) - Samba & Buffer Overflow Exploitation
 - [Kioptrix Level 2](./VulnHub/kioptrix_lvl2.md) - SQLi & OS Command Injection
