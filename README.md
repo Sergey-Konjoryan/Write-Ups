@@ -10,7 +10,7 @@ This repository serves as a technical portfolio of my hands-on experience in vul
 - [Kioptrix Level 1](./VulnHub/kioptrix_lvl1.md) - Samba & Buffer Overflow Exploitation
 - [Kioptrix Level 2](./VulnHub/kioptrix_lvl2.md) - SQLi & OS Command Injection
 - [Tr0ll 1](./VulnHub/tr0ll1.md) - Network Traffic Analysis & CTF Methodology
-
+- [DC-1](./VulnHub/dc1.md) - Drupalgeddon 1 (CVE-2014-3704) SQLi & SUID find 
 ### 🛠️ Lab Environments
 - [Metasploitable 2](./Metasploitable/metasploitable2.md) - Legacy Service Exploitation
 
