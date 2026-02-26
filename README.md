@@ -13,6 +13,7 @@ This repository serves as a technical portfolio of my hands-on experience in vul
 - [DC-1](./VulnHub/dc1.md) - Drupalgeddon 1 (CVE-2014-3704) SQLi & SUID find
 - [Raven 1](./VulnHub/raven1.md) - PHPMailer RCE & MySQL UDF PrivEsc
 - [Raven 2](./VulnHub/raven2.md) - PHPMailer RCE & MySQL UDF PrivEsc
+- [Matrix 1](./VulnHub/matrix1.md) - Source Code Analysis & rbash Escape
 ### 🛠️ Lab Environments
 - [Metasploitable 2](./Metasploitable/metasploitable2.md) - Legacy Service Exploitation
 
