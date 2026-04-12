@@ -15,6 +15,7 @@ This repository serves as a technical portfolio of my hands-on experience in vul
 - [Raven 2](./VulnHub/raven2.md) - PHPMailer RCE & MySQL UDF PrivEsc
 - [Matrix 1](./VulnHub/matrix1.md) - Source Code Analysis & rbash Escape
 - [Tr0ll 2](./VulnHub/tr0ll2.md) - Advanced Logic Bypassing & Binary Exploitation
+- [Lord of the Root](./VulnHub/lord_of_the_root.md) - Port Knocking Bypass, SQLi & Kernel Exploit
 ### 🛠️ Lab Environments
 - [Metasploitable 2](./Metasploitable/metasploitable2.md) - Legacy Service Exploitation
 
